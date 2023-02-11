@@ -1,0 +1,103 @@
+.divorce{
+  position: relative;
+  width: 100%;
+}
+h1{
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  text-align: center;
+  color: rgb(83, 87, 23);
+}
+.brandline{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 500px;
+  font-size: 3em;
+  font-weight: 900;
+  color: rgb(239, 247, 243);
+  text-shadow: 1px 1px 3px #464343;
+  font-family: 'Raleway', sans-serif;
+}
+.download{
+  position: absolute;
+  top:600px;
+  width: 100%;
+}
+.download1{
+  text-align: right;
+}
+.mission{
+  color: #ff5a60;
+  font-size: 200%;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  font-family: Raleway,sans-serif;
+  font-weight: 500;
+  padding: 30px 0;
+}
+.help{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 550px;
+  font-size: 2em;
+  font-weight: 900;
+  color: white;
+  text-shadow: 1px 1px 3px #464343;
+  font-family: 'Raleway', sans-serif;
+}
+a{
+  color: aliceblue;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(206, 159, 159);
+}
+#features{
+background-color: #b7e6e6;
+padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+}
+#pricing{
+  padding-left: 10px;
+}
+footer{
+  height: 50px;
+  margin: 0;
+  background-color: #eee;
+  color: #95959d;
+}
+.copyright{
+  display: block;
+  text-align: center;
+  position: relative;
+  top: 15px;
+  color: #95959d;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+h3{
+font-size: xx-large;
+  color: #08373f;
+}
+p{
+  font-size: larger;
+  font-weight: 400;
+  color: rgb(25, 62, 65);
+}
+.icon{
+  color: rgb(23, 54, 54);
+}
+.icon:hover{
+  color: #083a5e;
+}
+#pricing{
+  background-color: #b7e6e6;
+  padding: 0 15% 4%;
+}
